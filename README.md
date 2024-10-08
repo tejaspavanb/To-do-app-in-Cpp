@@ -1,6 +1,6 @@
 # Command-Line To-Do List Manager
 
-A simple C++ application that allows users to manage a to-do list via the command line. Users can add, view, mark tasks as complete, and delete tasks. Tasks are saved and loaded from a text file to persist between program runs.
+A C++ application that allows users to manage a to-do list via the command line. Users can add, view, mark tasks as complete, and delete tasks. Tasks are saved and loaded from a text file to persist between program runs.
 
 ## Features
 
