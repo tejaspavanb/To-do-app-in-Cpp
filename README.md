@@ -51,7 +51,7 @@ Simple To-Do List Manager
 4. Delete Task
 5. Exit
 Enter your choice: 1
-Enter task description: Complete CS50 Final Project
+Enter task description: Add Repo to Github
 Enter due date (YYYY-MM-DD): 2024-10-15
 Enter priority (low, medium, high): high
 Task added!
